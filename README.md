@@ -114,13 +114,6 @@
    - 阅读 [[TheSchema.md]] 了解系统规则
    - 将 Schema 内容提供给你的 AI Agent（Claude Code、OpenClaw、Trae 等）
 
-5. **开始使用**
-
-<a href="https://www.bilibili.com/video/BV1mgQPBXEZp/">
-  <img src="https://github.com/user-attachments/assets/f30b7441-310c-400f-b930-2aa081931756" alt="▶️ 查看视频演示" width="400">
-</a>
-
-👆 查看视频演示
 
 
 
